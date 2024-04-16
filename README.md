@@ -1,7 +1,9 @@
 ### Hi there, I'm Ryan! 👋
 
 - 🔭 I’m currently working on ... SWE Project for Automation!
-- 🌱 I’m currently learning ... Data Structures in Java! (learning python over the summer to get a start in data science!)
+- 🌱 I’m plan learning ... refresher DSA for technical interviews, JS/Node.js, TS, Python!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryantren/)
                        [E-mail](concepting@protonmail.com)
                        [Discord](mugging/april#9006)
+
+<a href="https://ryantren.github.io/protfolio-website/">here's my website i'm working on!<a>
