@@ -6,4 +6,4 @@
                        [E-mail](concepting@protonmail.com)
                        [Discord](mugging/april#9006)
 
-<a href="https://ryantren.github.io/protfolio-website/">here's my website i'm working on!<a>
+<a href="https://ryantren.github.io/protfolio-website/">here's my portfoliowebsite i'm working on!<a>
