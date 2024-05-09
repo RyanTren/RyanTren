@@ -8,3 +8,5 @@
    [Discord](mugging/april#9006)
 
 <a href="https://ryantren.github.io/protfolio-website/">here's my portfolio website i'm working on!<a>
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?RyanTren=myusername&hide=javascript,css,scss,html&theme=tokyonight)
