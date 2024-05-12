@@ -1,8 +1,8 @@
 # Hi there, I'm Ryan! 👋
 
-![Stats](https://github-readme-stats.vercel.app/api?username=RyanTren&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=RyanTren&show_icons=true&theme=dracula)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanTren&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanTren&theme=dracula)
 
 ### 🔭 I’m currently working on ... React.js Audio Player!
 ### 🌱 I’m plan learning ... refresher DSA for technical interviews, JS/React.js, TS/React/ts, Python!
