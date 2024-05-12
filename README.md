@@ -5,5 +5,7 @@
 ### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryantren/)
 ### 🌐 Portfolio Website: [Website](https://ryantren.github.io/protfolio-website/)
 
+![Stats](https://github-readme-stats.vercel.app/api?username=RyanTren&show_icons=true&theme=tokyonight)
+
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanTren&theme=tokyonight)
 
