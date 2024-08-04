@@ -7,5 +7,5 @@
 ### 🔭 I’m currently working on .... HeadStarter.AI SWE Fellowship, KSU AI Research, & CodePath!
 ### 🌱 I’m learning plan ... NLP/AI/ML, LeetCode, TS/React/ts, more Python!!!
 ### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryantren/)
-### 🌐 Portfolio Website: [Website](https://ryantren.github.io/protfolio-website/)
+### 🌐 Portfolio Website: [Website](https://ryantren.github.io/portfolio-website/)
 ### 🎶 React.js Music Player (Serenity): [Website](https://serenity-com.vercel.app/)
