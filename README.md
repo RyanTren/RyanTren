@@ -6,8 +6,8 @@
 
 ## What's going on with my life
 
-### 🔭 I’m currently working on .... HeadStarter.AI SWE Fellowship, KSU AI Research, & CodePath!
-### 🌱 I’m learning plan ... NLP/AI/ML, LeetCode, TS/React/ts, more Python!!!
+### 🔭 I’m currently working on .... Aayats, KSU AI Research, Mindjourney, & Technical Interview Prep!
+### 🌱 I’m learning plan ... PHP & PHP Laravel, mySQL, AWS, NLP/AI/ML/more Python, LeetCode, more TypeScript to make the full switch from JavaScript !!!
 ### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryantren/)
 ### 🌐 Portfolio Website: [Website](https://ryantren.github.io/portfolio-website/)
 
