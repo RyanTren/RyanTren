@@ -11,7 +11,7 @@
 ### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryantren/)
 ### 🌐 Portfolio Website: [Website](https://ryantren.github.io/portfolio-website/)
 
-## Some of my recent Projects
+## Some of my Recent Projects
 ### 🎶 React.js Music Player (Serenity): [Website](https://serenity-com.vercel.app/)
 ### 🥢 Pantry Tracker Website (Next.js, Firebase): [Website](https://ryan-pantry-tracker.vercel.app/)
 ### 🤖 AI Chat Support Website (Next.js, OpenAI, RAG, AWS EC2): [Website](https://hanguai-ryan-trans-projects-38a226e5.vercel.app/)
