@@ -4,7 +4,7 @@
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanTren&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515 )
 
-## What I'm currently up to...
+## What I'm currently up to..
 
 ### 🔭 I’m currently working on ... A new AI SaaS potentially, Aayats, KSU AI Research, & Technical Interview Prep
 ### 🌱 I’m learning plan ... AWS S3 & EC2, Linux, NLP/AI/ML/more Python, LC, & switching to Typescript
