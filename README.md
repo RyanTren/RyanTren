@@ -6,7 +6,7 @@
 
 ## What I'm currently up to..
 
-### 🔭 I’m currently working on ... A new AI SaaS potentially, Aayats, KSU AI Research, & Technical Interview Prep
+### 🔭 I’m currently working on ... A new AI SaaS Aimply & Aayats
 ### 🌱 I’m learning plan ... AWS S3 & EC2, Linux, NLP/AI/ML/more Python, LC, & switching to Typescript
 ### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryantren/)
 ### 🌐 Portfolio Website: [Website](https://ryantren.github.io/portfolio-website/)
