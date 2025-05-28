@@ -14,5 +14,6 @@
 ### 🤖 AI Chat Support Website (Next.js, OpenAI, RAG, AWS EC2): [Website](https://hanguai-ryan-trans-projects-38a226e5.vercel.app/)
 ### 📚 AI Flashcard Saas (Next.js, Node.js, TypeScript/JavaScript, OpenAI, Stripe, Clerk, Firebase): [Website](https://flasherio-ryan-trans-projects-38a226e5.vercel.app/)
 ### 💊 AI Powered Mental Health Solutions (Next.js, Node,js, TypeScript/JavaScript, OpenAI, Stripe, Clerk, Firebase): [Website](https://mindjourney-indol.vercel.app/)
+### 🦉 KSU AI Club Website (Next.js, TypeScript, TailwindCSS, Vercel): [Website](https://www.ksuaiclub.com/)
 
 
