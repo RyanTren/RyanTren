@@ -1,6 +1,42 @@
-# Hey, I'm Ryan 👋
+# yo wsg i'm ryan  
+```py
+class Ryan:
+    def __init__(self):
+        self.code = {
+            "frontend": ["HTML", "CSS", "JavaScript", "Sass", "Node.js"],
+            "backend": ["Python", "Java"],
+            "frameworks & libraries": ["React.js", "Next.js", "Bootstrap", "Flask"],
+            "data analysis": ["Python","R", "SQL"],
+            "mobile": ["Kotlin"],
+            "testing": ["PyTest", "Playwright", "JUnit"]
+            "tools": ["Git", "GitHub", "Visual Studio Code"]
+        }
+      self.software = {
+            "design": ["Adobe Photoshop","Figma", "Canva"],
+            "video editing": ["Sony Vegas Pro", "DaVinci Resolve"],
+            "database": ["Excel", "Google Sheets", "R Studio", "Microsoft PowerBi", "Microsoft SQL Server"],
+            "cloud": ["Microsoft Azure", "VMware"],
+            "applications": ["Microsoft Office Suite", "Sharepoint"]
+      }
+    def get_contacts(self):
+        return {
+            "linkedin": "[linkedin.com/in/ryantren/](https://www.linkedin.com/in/ryantren/)",
+            "github": "[github.com/RyanTren/](https://github.com/RyanTren/)",
+        }
+
+if __name__ == "__main__":
+    me = Ryan()
+```
+<div align="center">
+  
 ![Stats](https://github-readme-stats.vercel.app/api?username=RyanTren&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515 )
+</div>
+
+<div align="center">
+
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanTren&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515 )
+</div>
+
 ## What I'm currently up to..
 
 ### 🔭 I’m currently working on ... A new AI SaaS, TIP for New Grad, & SWE Co-op
