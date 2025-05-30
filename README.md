@@ -27,16 +27,6 @@ class Ryan:
 if __name__ == "__main__":
     me = Ryan()
 ```
-<div align="center">
-  
-![Stats](https://github-readme-stats.vercel.app/api?username=RyanTren&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515 )
-</div>
-
-<div align="center">
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanTren&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515 )
-</div>
-
 ## What I'm currently up to..
 
 ### 🔭 I’m currently working on ... A new AI SaaS, TIP for New Grad, & SWE Co-op
@@ -51,5 +41,16 @@ if __name__ == "__main__":
 ### 📚 AI Flashcard Saas (Next.js, Node.js, TypeScript/JavaScript, OpenAI, Stripe, Clerk, Firebase): [Website](https://flasherio-ryan-trans-projects-38a226e5.vercel.app/)
 ### 💊 AI Powered Mental Health Solutions (Next.js, Node,js, TypeScript/JavaScript, OpenAI, Stripe, Clerk, Firebase): [Website](https://mindjourney-indol.vercel.app/)
 ### 🦉 KSU AI Club Website (Next.js, TypeScript, TailwindCSS, Vercel): [Website](https://www.ksuaiclub.com/)
+
+
+<div align="center">
+  
+![Stats](https://github-readme-stats.vercel.app/api?username=RyanTren&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515 )
+</div>
+
+<div align="center">
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanTren&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515 )
+</div>
 
 
