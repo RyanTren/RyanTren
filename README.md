@@ -3,13 +3,13 @@
 class Ryan:
     def __init__(self):
         self.code = {
-            "frontend": ["HTML", "CSS", "JavaScript", "Sass", "Node.js"],
-            "backend": ["Python", "Java"],
-            "frameworks & libraries": ["React.js", "Next.js", "Bootstrap", "Flask"],
+            "frontend": ["HTML", "CSS", "JavaScript", "TypeScript", "Node.js"],
+            "backend": ["Python", "Java", "C#"],
+            "frameworks & libraries": ["React.js", "Next.js", "Angular", ".NET"],
             "data analysis": ["Python","R", "SQL"],
-            "mobile": ["Kotlin"],
-            "testing": ["PyTest", "Playwright", "JUnit"]
-            "tools": ["Git", "GitHub", "Visual Studio Code"]
+            "mobile": ["Swift"],
+            "testing": ["PyTest", "Playwright", "JUnit", "Ranorex"]
+            "tools": ["Git", "GitHub", "Azure Dev Ops", "Docker", "Postman", "Visual Studio Code"]
         }
       self.software = {
             "design": ["Adobe Photoshop","Figma", "Canva"],
@@ -20,8 +20,8 @@ class Ryan:
       }
     def get_contacts(self):
         return {
-            "linkedin": "[linkedin.com/in/ryantren/](https://www.linkedin.com/in/ryantren/)",
-            "github": "[github.com/RyanTren/](https://github.com/RyanTren/)",
+            "LinkedIn": "(www.linkedin.com/in/ryantren/)",
+            "github": "(www.github.com/RyanTren/)",
         }
 
 if __name__ == "__main__":
