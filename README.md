@@ -32,10 +32,10 @@ if __name__ == "__main__":
 ```
 ## What I'm currently up to..
 
-### 🔭 I’m currently working on ... A new AI SaaS, TIP for New Grad, & SWE Co-op
-### 🌱 I’m planning on learning ... AWS (AWS S3 & EC2), Linux, NLP/AI/ML/more Python, LC, Angular, .NET, and etc!
+### 🔭 I’m currently working on ... TIP for New Grad & Summer 2026 Internships, KSU Senior Capstone Project, & SWE Co-op
+### 🌱 I’m planning on learning ... Cloud (AWS S3 & EC2), Linux, NLP/AI/ML/more Python, LC, Angular, .NET, and etc!
 ### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryantren/)
-### 🌐 Portfolio Website: [Website](https://ryantren.github.io/portfolio-website/)
+### 🌐 Portfolio Website: [Website](https://portfolio-site-swart-xi.vercel.app/)
 
 ##  Projects
 ### 🎶 React.js Music Player (Serenity): [Website](https://serenity-com.vercel.app/)
