@@ -32,8 +32,8 @@ if __name__ == "__main__":
 ```
 ## What I'm currently up to..
 
-### 🔭 I’m currently working on ... TIP for New Grad, Summer 2026 Internships, & Current SWE Co-op
-### 🌱 I’m planning on learning ... Cloud (AWS S3 & EC2), Linux, NLP/AI/ML/more Python, LC/DSA, Angular, .NET, and etc!
+### 🔭 I’m currently working on ... TIP for New Grad, Portfolio Risk Management, & Personal Site Refresh
+### 🌱 I’m planning on learning ... LC/DSA, Cloud Computing (AWS S3 & EC2), NLP/AI/ML/more Python, Angular, .NET, Linux, and etc!
 ### 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryantren/)
 ### 🌐 Portfolio Website: [Website](https://portfolio-site-swart-xi.vercel.app/)
 
