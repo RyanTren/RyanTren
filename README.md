@@ -1,6 +1,6 @@
 # yo wsg i'm ryan  
 
-![Profile Views](https://camo.githubusercontent.com/70c737b360ea68384f119c9a9200d91c30e1d2071b3ad81bb3f9e91b00595635/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d697477656c61266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)
+![Profile Views}(https://camo.githubusercontent.com/70c737b360ea68384f119c9a9200d91c30e1d2071b3ad81bb3f9e91b00595635/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d697477656c61266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)
 
 ```py
 class Ryan:
@@ -8,18 +8,15 @@ class Ryan:
         self.code = {
             "frontend": ["HTML", "CSS", "JavaScript", "TypeScript", "Node.js"],
             "backend": ["Python", "Java", "C#"],
-            "frameworks & libraries": ["React.js", "Next.js", "Angular", ".NET"],
+            "frameworks & libraries": ["React.js", "Next.js", "Angular", ".NET Core/Framework", "FastApi", "StreamLit"],
             "data analysis": ["Python","R", "SQL"],
             "mobile": ["Swift"],
-            "testing": ["PyTest", "Playwright", "JUnit", "Ranorex"]
-            "tools": ["Git", "GitHub", "Azure Dev Ops", "Docker", "Postman", "Visual Studio Code"]
+            "testing": ["PyTest", "Playwright", "Jest", "JUnit", "XUnit", "Ranorex"]
+            "tools": ["Git", "GitHub", "Azure Dev Ops", "Docker", "Postman", "Docker", "Kubernetes", "gRPC", "Visual Studio Code"]
         }
       self.software = {
-            "design": ["Adobe Photoshop","Figma", "Canva"],
-            "video editing": ["Sony Vegas Pro", "DaVinci Resolve"],
-            "database": ["Excel", "Google Sheets", "R Studio", "Microsoft PowerBi", "Microsoft SQL Server"],
+            "database": ["PostgrSQL", "SQL", "Redis", "R Studio", "Microsoft SQL Server"],
             "cloud": ["Microsoft Azure", "VMware"],
-            "applications": ["Microsoft Office Suite", "Sharepoint"]
       }
     def get_contacts(self):
         return {
